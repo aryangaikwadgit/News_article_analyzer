@@ -5,3 +5,4 @@ __pycache__/
 .env
 models/
 data/raw/
+data/processed
