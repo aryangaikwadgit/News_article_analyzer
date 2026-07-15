@@ -38,7 +38,7 @@ class FeatureExtractor:
 
         self.y_train = self.train_df["label"]
         self.y_test = self.test_df["label"]
-      
+        
         # print("BoW Sample Labels")
         # print("y_train :", self.x_train.iloc[10])
         # print("y_test :", self.x_test.iloc[10])

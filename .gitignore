@@ -1,8 +1,23 @@
+# Virtual Environment
 venv/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
-*.pyc
-.env
+*.py[cod]
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Generated Files
+artifacts/
 models/
-data/raw/
-data/processed
+data/
+
+# Jupyter
+notebook/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
